@@ -1,0 +1,16 @@
+.dress-gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.dress-item {
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+}
+
+.dress-item img {
+  width: 100%;
+  height: auto;
+}
+
